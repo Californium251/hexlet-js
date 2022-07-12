@@ -9,4 +9,12 @@
 - Как-то так
 - И вот так
 
+<message>
+Что-то не отображается
+</message>
+
 Какое-то изменение
+
+<MESSAGES_GROUP>
+Some text
+</MESSAGES_GROUP>
